@@ -56,7 +56,7 @@ All five classifiers were trained on the same dataset and evaluated on the same 
 ---
 
 ## e. Streamlit Application
-🔗 **Live App:** *(Will be updated after deployment)*
+🔗 **Live App:** [https://phishing-classifier-2026aj05211.streamlit.app](https://phishing-classifier-2026aj05211.streamlit.app)
 
 **Features implemented:**
 - 📂 CSV upload of test data (30 features + `Result` column)
