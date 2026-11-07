@@ -24,8 +24,7 @@ Phishing attacks are a major cybersecurity threat where attackers create fraudul
 ---
 
 ## c. GitHub Repository Link
-🔗 **[https://github.com/YOUR_USERNAME/phishing-website-classification-2026AJ05211](https://github.com/YOUR_USERNAME/phishing-website-classification-2026AJ05211)**
-*(Replace YOUR_USERNAME with your actual GitHub username later)*
+🔗 **[https://github.com/2026aj05211/phishing-website-classification-2026AJ05211](https://github.com/2026aj05211/phishing-website-classification-2026AJ05211)**
 
 ---
 
@@ -81,6 +80,4 @@ All five classifiers were trained on the same dataset and evaluated on the same 
     ├── knn.joblib
     ├── naive_bayes.joblib
     ├── svm.joblib
-    └── scaler.joblib               
-	
-	# StandardScaler used in training
+    └── scaler.joblib               # StandardScaler used in training
